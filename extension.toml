@@ -1,0 +1,11 @@
+id = "eskip"
+name = "Eskip"
+version = "0.0.1"
+schema_version = 1
+authors = ["Carloluis <carloluisr@gmail.com>"]
+description = "Eskip routing DSL support for Skipper"
+repository = "https://github.com/carloluis/zed-eskip"
+
+[grammars.eskip]
+repository = "https://github.com/carloluis/tree-sitter-eskip"
+rev = "5f4f31aea60a5a7a6c0382aa7e5cc0bbe02b8af2"

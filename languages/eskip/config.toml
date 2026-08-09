@@ -1,0 +1,4 @@
+name = "Eskip"
+grammar = "eskip"
+path_suffixes = ["eskip"]
+line_comments = ["// "]
