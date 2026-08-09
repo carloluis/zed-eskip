@@ -2,6 +2,8 @@
 
 [Zed](https://zed.dev) extension adding language support for [eskip](https://github.com/carloluis/tree-sitter-eskip), the descriptive configuration language used for routing rules in [Skipper](https://opensource.zalando.com/skipper/).
 
+![Image Eskip Highlights in Zed](https://github.com/user-attachments/assets/7abfbcdb-20c1-4b87-ac76-bce6668ba0f1)
+
 ## Features
 
 - Syntax highlighting (`languages/eskip/highlights.scm`)
